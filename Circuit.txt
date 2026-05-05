@@ -1,0 +1,31 @@
+LCD:
+SDA → GPIO21
+SCL → GPIO22
+
+ADXL345:
+VCC → 3.3V
+GND → GND
+SDA → GPIO21
+SCL → GPIO22
+
+DHT11:
+DATA → GPIO4
+
+ACS712:
+OUT → GPIO34
+
+ZMPT101:
+OUT → GPIO35
+
+Relay:
+IN → GPIO26
+
+SD Card:
+CS → GPIO5
+SCK → GPIO18
+MISO → GPIO19
+MOSI → GPIO23
+
+Motor:
+AC Live → Relay → ACS712 → Motor
+Neutral → Direct
