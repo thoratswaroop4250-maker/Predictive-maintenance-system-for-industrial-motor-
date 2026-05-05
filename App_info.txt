@@ -1,0 +1,13 @@
+Platform: MIT App Inventor
+
+Function:
+- Fetch data from ThingSpeak
+- Display sensor values
+
+Components:
+- Web
+- Clock
+- Labels
+
+API:
+https://api.thingspeak.com/channels/CHANNEL_ID/feeds.json?api_key=READ_API_KEY&results=1
