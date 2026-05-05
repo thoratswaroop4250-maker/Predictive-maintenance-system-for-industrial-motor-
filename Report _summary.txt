@@ -1,0 +1,14 @@
+Title:
+IoT Predictive Maintenance System
+
+Objective:
+Monitor motor health and prevent failure
+
+Working:
+Sensors → ESP32 → Cloud → Relay
+
+Result:
+System detects faults and stops motor
+
+Conclusion:
+Low cost and effective solution
