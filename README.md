@@ -1,3 +1,8 @@
+## 🚀 Tech Stack
+ESP32 | IoT | ThingSpeak | MIT App Inventor | Sensors
+
+## 📡 IoT Platform
+ThingSpeak Cloud Integration
 # IoT Based Predictive Maintenance System
 
 ## Description
@@ -34,7 +39,3 @@ MIT App Inventor
 ## Future Scope
 - AI prediction
 - Industrial upgrade
-## 📸 Project Images
-
-![Circuit](images/circuit.png)
-![Output](images/output.png)
