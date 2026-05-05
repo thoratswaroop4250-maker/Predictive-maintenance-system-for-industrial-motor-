@@ -34,3 +34,7 @@ MIT App Inventor
 ## Future Scope
 - AI prediction
 - Industrial upgrade
+## 📸 Project Images
+
+![Circuit](images/circuit.png)
+![Output](images/output.png)
